@@ -18,3 +18,8 @@
 - 固件编译后带Argon主题，但与常见的Argon主题有所差别可能是由于主题版本过低，可以自行到[Argon源码仓库下载](https://github.com/jerrykuku/luci-theme-argon/releases/tag/v1.7.3)更新:[下载地址](https://github.com/jerrykuku/luci-theme-argon/releases/tag/v1.7.3)**版本号请选择1.7.3**
 - Argon主题设置插件请下载安装0.8版本：<https://github.com/jerrykuku/luci-app-argon-config/releases/tag/v0.8-beta>
 - 不知道何种原因最新版本的Argon主题它的自定义主题设置插件argon-config不会生效，所以选择这两个版本以求同时生效，如不使用主题设置插件可选择最新Argon主题安装。
+## 注意
+- OpenClash、PassWall请按照官方仓库要求自行安装依赖
+- PassWall[下载](https://github.com/xiaorouji/openwrt-passwall/releases)
+下载-a53.zip解压后安装，然后再安装插件与汉化包
+- OpenClash[下载](https://github.com/vernesong/OpenClash/releases)
